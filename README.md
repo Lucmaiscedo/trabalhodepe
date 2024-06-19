@@ -4,5 +4,7 @@ Este jogo texto se trata de um trabalho de programação estruturada do 1 perío
 integrantes:
 
 Gabriel Machado : gbmachado@ufrrj.br
+
 Leonardo Doria  : leomvdoria@ufrrj.br
+
 Lucas Macedo    : kontrol@ufrrj.br
