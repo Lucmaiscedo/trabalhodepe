@@ -1,0 +1,20 @@
+|						|
+|		   -Fogueira-			|		
+|						|
+|						|
+|	1. Subir de Nivel			|
+|						|
+|						|
+|       2. Ver atributos                        |
+|						|
+|						|
+|	3. Ver inventario			|
+|						|
+|						|
+|	4. Ver Mapa				|
+|						|
+|			   			|
+|	5. Sair					|
+|						|
+|						|
+			

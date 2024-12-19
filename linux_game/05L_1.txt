@@ -1,0 +1,16 @@
+Localizacao: (Bed of Chaos)
+
+A sua frente ha uma enorme arvore retorcida que domina o centro do espaco.
+A arvore, com seus galhos e raizes entrelacados, parece viva e pulsante com uma energia maligna.
+
+Voce se ve, entao, diante de 3 escolhas:
+
+
+[1] Enfrentar Bed of Chaos.
+
+[2] Voltar para Lost Izalith.
+
+[3] Sentar-se a fogueira.
+
+
+							 O que deseja fazer? 
