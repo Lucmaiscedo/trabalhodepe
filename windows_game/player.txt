@@ -1,0 +1,8 @@
+Localizacao: (00C)
+Jogador: aaa
+Nivel[1]
+Vida [110]
+Forca [7]
+Sorte [1]
+Moedas [0]
+Chaves [0]
