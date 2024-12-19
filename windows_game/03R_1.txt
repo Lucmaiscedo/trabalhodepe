@@ -1,0 +1,20 @@
+Localizacao: (Undead Bridge)
+
+A sua frente ha uma ponte longa e estreita, feita de pedra e parcialmente destruida.
+Abaixo da ponte, ha um rio de lava, causando uma sensacao de perigo iminente.
+O rugido ameacador de um dragao que se esconde nas sombras de uma caverna proxima
+eh o lembrete de uma constante ameaca.
+
+Voce se ve, entao, diante de cinco escolhas:
+
+
+[1] Avancar para Twin Gargoyles.
+
+[2] Voltar para Undead Parish.
+
+[3] Procurar por itens aos arredores.
+
+[4] Procurar por monstros a lutar.
+
+
+							O que deseja fazer?

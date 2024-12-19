@@ -1,0 +1,23 @@
+|| Para uma experiencia completa jogue em tela cheia||
+
+
+|						|
+|		   DARK SOULS			|		
+|						|
+|						|
+|	[1] Iniciar Novo jogo			|
+|						|
+|						|
+|       [2] Carregar Jogo Salvo                 |
+|						|
+|						|
+|	[3] Como Jogar				|
+|						|
+|						|
+|	[4] Creditos				|
+|						|
+|						|
+|	[5] Sair				|
+|						|
+|						|
+			

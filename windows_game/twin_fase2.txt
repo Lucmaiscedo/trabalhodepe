@@ -1,0 +1,11 @@
++=========================================================================+
+ Durante a batalha contra a gargula, voce percebe que,
+ apos causar dano significativo a gargula, a situacao comeca a mudar.                
+                                                                                                                                           
+ De repente, uma segunda gargula ganha vida e se junta a luta.                                                                             
+ Agora, voce enfrenta duas criaturas aladas, ambas atacando com lancas
+ e cuspidoras de fogo, tornando a batalha ainda mais desafiadora.
+    
+ voce precisa estar atento a todos os movimentos, esquivando-se 
+e contra-atacando com precisao para sobreviver e derrotar esses guardioes. 
++=========================================================================+

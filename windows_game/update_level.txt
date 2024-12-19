@@ -1,0 +1,15 @@
+
+
++=======================+
+
+nivel atual [54]
+
+moedas: 632
+
+proximo nivel [55]
+
+moedas necessarias: 550
+
++=======================+
+
+

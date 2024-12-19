@@ -1,0 +1,11 @@
+Dark souls possui um sistema de salvamento automatico, onde ao descansar em uma fogueira, sua vida e itens de cura sao restaurados.
+
+A cada ambiente em que se aventura, o jogador pode escolher entre diversas opcoes que alteram dinamicamente a experiencia do heroi.
+
+A seguir, um mapa da progressao do jogo, cujo ponto de partida e o santuario do elo-do-fogo, o <Firelink Shrine>:
+
+
+							Deseja ver o mapa?
+							
+					[1] Sim					[2] Nao
+					
