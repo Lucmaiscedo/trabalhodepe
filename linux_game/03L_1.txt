@@ -1,0 +1,18 @@
+Localizacao: (Darkroot Garden)
+
+
+Ao horizonte de Darkroot Garden, voce avista, ao final do percurso de um rio, uma gruta, cujas paredes reluzem em tons de vermelho.
+Ao chegar perto, uma onda de calor toma o ambiente de dentro da gruta.
+
+Voce se ve, entao, diante de quatro escolhas:
+
+[1] Avancar para lost izalith.
+
+[2] Voltar para Drake Valley.
+
+[3] Procurar por itens aos arredores.
+
+[4] Procurar por monstros a lutar.
+
+
+							O que deseja fazer?

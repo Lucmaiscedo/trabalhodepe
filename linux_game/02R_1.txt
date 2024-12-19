@@ -1,0 +1,19 @@
+Localizacao: (Undead Parish)
+
+A sua frente, destaca-se a parte central de Undead Parish, uma grande igreja gotica.
+Ao redor da igreja, ha diversas ruas com escombros e cadaveres de guerreiros.
+A sensaçao de um lugar abandonado e reforcada pelo clima sombrio e pelas ruinas.
+
+Voce se ve, entao, diante de cinco escolhas:
+
+[1] Avancar para Undead Bridge.
+
+[2] Voltar para Undead Burg.
+
+[3] Sentar-se a fogueira.
+
+[4] Procurar por itens aos arredores.
+
+[5] Procurar por monstros a lutar.
+
+							 O que deseja fazer?  

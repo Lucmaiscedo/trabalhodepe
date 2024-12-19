@@ -1,0 +1,21 @@
+Localizacao: (Drake Valley)
+
+
+Ao canto direito de Drake Valley, ha uma passagem por uma caverna, coberta por musgo e segredos.
+No centro da sala, uma fogueira acende perante sua presenca.
+
+Voce se ve, entao, diante de cinco escolhas:
+
+
+[1] Avancar para Darkroot Garden.
+
+[2] Voltar para New Londo.
+
+[3] Sentar-se a fogueira.
+
+[4] Procurar por itens aos arredores.
+
+[5] Procurar por monstros a lutar.
+
+
+							O que deseja fazer? 
